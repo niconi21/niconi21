@@ -5,15 +5,18 @@
 - Backend development (Java, NodeJS, TypeScript)
 - Frontend web development (React.js, React + TS)
 - Database administrator (Mysql, MongoDB, Redis)
+- Mobile development (Flutter, React Native)
 - Docker
 - CI/CD with Jenkins
 - Sonarquebe/Sonarcloud
 - Infrastructure with AWS
 - Architectural solutions
-- Linux
+- Linux (mint, archLinux, ubuntu)
 - Deep Learning and Machine Learning
 - Cloud Architecture
 - Design Patterns
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,maven,nodejs,express,git,ts,react,vite,tailwind,mysql,mongodb,redis,docker,jenkins,aws,linux,bash,mint,arch,ubuntu,vscode,idea,firebase,elasticsearch&perline=6)](https://skillicons.dev)
 
 ## 📅 Hobbies
 - Watch anime and TV shows
@@ -31,11 +34,14 @@
 - todo [WIP] - Side project -->
 
 ## 📚 Learning
-- React with TS
+- React with TS ![My Skills](https://skillicons.dev/icons?i=react)
+
 - Java 17+
 - tailwind css
 - NextUI
 - Amazon Web Service
+
+[![Learning](https://skillicons.dev/icons?i=java,tailwind,css,aws&perline=6)](https://skillicons.dev)
 
 
 <!-- ## 🎵 Spotify status
