@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Moreno</h1>
-<h3 align="center">A System Computer Engineer from Mexico</h3>
+<h3 align="center">A Computer System Engineer from Mexico</h3>
 
 ## 💬 Ask me about
 - Backend development (Java, NodeJS, TypeScript)
