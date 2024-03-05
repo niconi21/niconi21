@@ -34,8 +34,7 @@
 - todo [WIP] - Side project -->
 
 ## 📚 Learning
-- React with TS ![My Skills](https://skillicons.dev/icons?i=react)
-
+- React with TS 
 - Java 17+
 - tailwind css
 - NextUI
